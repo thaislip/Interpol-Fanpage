@@ -1,0 +1,13 @@
+header {text-align: center}
+
+body {background-color: slategrey}
+
+.styledfont {color:pink;font-family:times; font-weight:bold; font-size:100%}
+
+h1 {color:plum; font-family:impact; font-weight:bold; font-size: 200%}
+
+img {border-radius: 80%; border: 5px solid plum; padding:5px; width:500px;}
+
+h2 {color:plum; font-family:impact; font-weight:bold; font-size:180%}
+
+.styledfont2 {color:pink; font-family:impact; font-size: 100%}
